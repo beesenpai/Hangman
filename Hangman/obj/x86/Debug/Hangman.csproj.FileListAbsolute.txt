@@ -1,0 +1,6 @@
+/Users/Michael/Projects/Hangman/Hangman/bin/Debug/Hangman.exe
+/Users/Michael/Projects/Hangman/Hangman/bin/Debug/Hangman.pdb
+/Users/Michael/Projects/Hangman/Hangman/obj/x86/Debug/Hangman.csprojResolveAssemblyReference.cache
+/Users/Michael/Projects/Hangman/Hangman/obj/x86/Debug/Hangman.csproj.CoreCompileInputs.cache
+/Users/Michael/Projects/Hangman/Hangman/obj/x86/Debug/Hangman.exe
+/Users/Michael/Projects/Hangman/Hangman/obj/x86/Debug/Hangman.pdb

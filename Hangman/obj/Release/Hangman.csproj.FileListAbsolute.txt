@@ -1,0 +1,4 @@
+/Users/Michael/Projects/Hangman/Hangman/bin/Release/Hangman.exe
+/Users/Michael/Projects/Hangman/Hangman/obj/Release/Hangman.csprojResolveAssemblyReference.cache
+/Users/Michael/Projects/Hangman/Hangman/obj/Release/Hangman.csproj.CoreCompileInputs.cache
+/Users/Michael/Projects/Hangman/Hangman/obj/Release/Hangman.exe

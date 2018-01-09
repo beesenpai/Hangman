@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9C75EB35-5CBD-40A2-80E0-F89D8073B553}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hangman/Program.cs">
+    <Files>
+      <File FileName="Hangman/Program.cs" Line="12" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hangman" expanded="True">
+            <Node name="Hangman" expanded="True">
+              <Node name="UserInterface" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hangman PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
