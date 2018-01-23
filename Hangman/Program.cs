@@ -59,6 +59,7 @@ namespace Hangman
             W.Word = "X X X X X X X X X X X X X X X";
             W.DisableButtons();
             W.Tries = 0;
+            _tries = 0;
             W.ToggleTriesLabel();
             W.StartButton = "Start Game";
         }
